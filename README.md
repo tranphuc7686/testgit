@@ -1,2 +1,1 @@
-# testgit
-Test git Thực Tập Android
+ # Hello word cd testgit 
